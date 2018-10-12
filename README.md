@@ -1,24 +1,12 @@
-<div align="center">
-  <p>
-    <h1>Net-ReRouter (into docker)</h1>
-  </p>
-  <p>
-    <h4>ReRoutes incoming traffic through one port to another host & port.</h4>
-  </p>
-  <p>
-    (Based on <a href="https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/">Ambassador pattern in Kubernetes</a>)
-  </p>
-  <p>
-    <a href="https://hub.docker.com/r/manuellr/net-rerouter/">
-      <img src="https://img.shields.io/docker/stars/manuellr/net-rerouter.svg" alt="Stars" />
-      <img src="https://shields.beevelop.com/docker/image/image-size/manuellr/net-rerouter/latest.svg?style=flat-square" alt="Size" />
-      <img src="https://img.shields.io/docker/pulls/manuellr/net-rerouter.svg" alt="Pulls" />
-    </a>
-    <a href="https://github.com/ManuelLR/Net-ReRouter_docker/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/ManuelLR/Net-ReRouter_docker.svg?style=flat-square" alt="License" />
-    </a>
-  </p>
-</div>
+# Net-ReRouter (into docker)
+**ReRoutes incoming traffic through one port to another host & port.**
+
+(Based on [Ambassador pattern in Kubernetes](https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/))
+
+[![Stars](https://img.shields.io/docker/stars/manuellr/net-rerouter.svg)](https://hub.docker.com/r/manuellr/net-rerouter/)
+[![Size](https://shields.beevelop.com/docker/image/image-size/manuellr/net-rerouter/latest.svg?style=flat-square)](https://hub.docker.com/r/manuellr/net-rerouter/)
+[![Pulls](https://img.shields.io/docker/pulls/manuellr/net-rerouter.svg)](https://hub.docker.com/r/manuellr/net-rerouter/)
+[![License](https://img.shields.io/github/license/ManuelLR/Net-ReRouter_docker.svg?style=flat-square)](https://github.com/ManuelLR/Net-ReRouter_docker/blob/master/LICENSE)
 
 ## Usage
 
